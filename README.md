@@ -1,6 +1,6 @@
 # Text-Classification-Spam-Email
 
-This project focuses on the "Spam or Not Spam Dataset," which is a collection of emails labeled as either spam or not spam. The dataset can be accessed and downloaded from the following Kaggle URL: Spam or Not Spam Dataset.
+This project focuses on the "Spam or Not Spam Dataset," which is a collection of emails labeled as either spam or not spam. The dataset can be accessed and downloaded from the following Kaggle URL: [Spam or Not Spam Dataset.](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset)
 
 # Objective
 The objective of this project is to train and evaluate machine learning models in the field of email spam classification. By developing a model that can accurately classify incoming emails as either spam or not spam, the project aims to create a robust solution for filtering out unwanted and potentially harmful messages.
